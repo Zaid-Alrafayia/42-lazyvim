@@ -1,1 +1,0 @@
-/home/zaalrafa/.config/omarchy/current/theme/neovim.lua
